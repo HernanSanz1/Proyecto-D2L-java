@@ -2,11 +2,11 @@ package d2l;
 
 
 public class Curso {
-    int codigo;
-    String Nombre;
-    String Departamento;
-    double C_credito;
-    double nota_de_curso;
+    private int codigo;
+    private String Nombre;
+    private String Departamento;
+    private double C_credito;
+    private double nota_de_curso;
 
 
     public void SetNombre(String Nombre){

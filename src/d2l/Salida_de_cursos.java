@@ -51,7 +51,7 @@ public class Salida_de_cursos {
         System.out.println("-------------------------------------------");
         System.out.println("El nombre del curso 4 : " + curso4.GetNombre());
         System.out.println("El Departamento del curso 4 : " + curso4.GetDepartamento());
-        System.out.println("El codigo del curso : 4  " + curso4.Getcodigo());
+        System.out.println("El codigo del curso 4 :  " + curso4.Getcodigo());
         System.out.println("La nota del curso 4 : " + curso4.Getnota_curso());
     }
 }

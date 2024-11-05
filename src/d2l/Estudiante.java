@@ -1,9 +1,9 @@
 package d2l;
 
 public class Estudiante {
-    int codigo;
-    String Nombre;
-    String Apellido;
+    private int codigo;
+    private String Nombre;
+    private String Apellido;
 
     public Estudiante(){
         
